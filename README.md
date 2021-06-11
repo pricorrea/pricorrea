@@ -38,7 +38,7 @@ Nas horas livres estudo conteúdos sobre:
 
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para pdepri@gmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://docs.google.com/document/d/1edguElroeA6-13ojEF9ZLLQiAGncX1mz-EYEypq37ms" target="_blank">Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricorrea&layout=compact&theme=graywhite&title_color=268bd2" alt="Priscila Corrêa" />
