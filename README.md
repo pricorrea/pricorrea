@@ -1,5 +1,5 @@
 
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<h1 align="center"> Salve! </h1>
 <hr />
 <a href="https://github.com/pricorrea" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -32,12 +32,12 @@ Nas horas livres estudo conteúdos sobre:
 
 - 👩‍💻 Estou estudando backend com **JavaScript** e utilizando o framework **Node.js**;
 - Trabalho na *@remessaonline* como Associated Product Manager na àrea de Produto. 
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre lendo à respeito.
+- 💼 Adoro tecnologia, por este motivo estou sempre lendo à respeito.
 - 👾 Meu hobbie é: :camera: Fotografar;
 
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+- 💬 Fique a vontade para me chamar, bora trocar uma ideia!
 - 📫 Se quiser pode enviar um email para pdepri@gmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://docs.google.com/document/d/1edguElroeA6-13ojEF9ZLLQiAGncX1mz-EYEypq37ms/edit" target="_blank">Currículo</a> para mais informações.
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricorrea&layout=compact&theme=graywhite&title_color=268bd2" alt="Priscila Corrêa" />
@@ -55,7 +55,6 @@ Nas horas livres estudo conteúdos sobre:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 
 
 </p>
