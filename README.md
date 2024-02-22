@@ -31,9 +31,8 @@ Nas horas livres estudo conteúdos sobre:
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622840524859.png" width="400px" />
 
 - 👩‍💻 Estou estudando backend com **JavaScript** e utilizando o framework **Node.js**;
-- Trabalho na *@remessaonline* como Associated Product Manager na àrea de Produto. 
+- Trabalho na *@photocila* como fotógrafa freelance. 
 - 💼 Adoro tecnologia, por este motivo estou sempre lendo à respeito.
-- 👾 Meu hobbie é: :camera: Fotografar;
 
 - 💬 Fique a vontade para me chamar, bora trocar uma ideia!
 - 📫 Se quiser pode enviar um email para pdepri@gmail.com.
