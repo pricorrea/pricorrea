@@ -16,7 +16,7 @@ Atualmente moro em São Paulo-SP-BR
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br />
-Estou me capacitando pela @reprogramabr para me tornar uma <b> Desenvolvedora back-end</b>.
+Irei iniciar a capacitação para me tornar uma pessoa <b> Desenvolvedora front-end</b>.
 <p align="left" >
 <p/>
 Nas horas livres estudo conteúdos sobre:
