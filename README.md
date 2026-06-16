@@ -19,18 +19,15 @@ Atualmente moro em São Paulo-SP-BR
 Irei iniciar a capacitação para me tornar uma pessoa <b> Desenvolvedora front-end</b>.
 <p align="left" >
 <p/>
+  
 Nas horas livres estudo conteúdos sobre:
 
 - Gerenciamento de Produto;
 - Novas tecnologias;
 - Edição de Fotos:
 
-
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622840524859.png" width="400px"/>
-
-- 👩‍💻 Estou estudando backend com **JavaScript** e utilizando o framework **Node.js**;
 - Trabalho na *@photocila* como fotógrafa freelance. 
 - 💼 Adoro tecnologia, por este motivo estou sempre lendo à respeito.
 
