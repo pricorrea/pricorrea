@@ -28,7 +28,7 @@ Nas horas livres estudo conteúdos sobre:
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622840524859.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1622840524859.png" width="400px"/>
 
 - 👩‍💻 Estou estudando backend com **JavaScript** e utilizando o framework **Node.js**;
 - Trabalho na *@photocila* como fotógrafa freelance. 
