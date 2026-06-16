@@ -35,16 +35,10 @@ Nas horas livres estudo conteúdos sobre:
 - 📫 Se quiser pode enviar um email para pdepri@gmail.com.
 - 📝 Veja meu <a href="https://docs.google.com/document/d/1edguElroeA6-13ojEF9ZLLQiAGncX1mz-EYEypq37ms/edit" target="_blank">Currículo</a> para mais informações.
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pricorrea&layout=compact&theme=graywhite&title_color=268bd2" alt="Priscila Corrêa" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pricorrea&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Priscila Corrêa" />
-</p>
 
 **Linguagens e ferramentas:**  
 
-<p align="center">
+<p align="lefth">
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
